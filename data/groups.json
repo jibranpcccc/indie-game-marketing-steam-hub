@@ -1,17 +1,17 @@
 [
   {
-    "id": "indie-game-marketing-steam-hub-discord-20260915-1",
-    "title": "Devcord Web Developers",
-    "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "id": "indie-game-marketing-steam-hub-reddit-20260915-1",
+    "title": "r/gamedev Indie Steam Marketing Guild",
+    "platform": "Reddit",
+    "category": "Steam & Game Marketing",
+    "memberCount": "1,350,000+ members",
+    "description": "Tactical discussions on Steam Next Fest demos, wishlist conversion velocity, capsule art A/B testing, and publisher pitching.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "gamedev",
+      "steam",
+      "marketing",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
